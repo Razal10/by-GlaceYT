@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🚀New Updates"];
+const statusMessages = ["🐺...","Updates soon"];
 
 
 let currentIndex = 0;
